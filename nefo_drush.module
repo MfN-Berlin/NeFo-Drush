@@ -1,0 +1,9 @@
+<?php
+/**
+ * NeFo Drush v1.0
+ * @copyright (C) 2016 www.mfn-berlin.de
+ * @author  antonio.ponte@mfn-berlin.de
+ *
+ * @file nefo_drush.module
+ * @brief Module file for NeFo Drush
+ */

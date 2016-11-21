@@ -1,0 +1,8 @@
+name = NeFo Drush
+description = Implementing Drush commands for the NeFo project.
+package = NEFO
+dependencies[] = nefo
+
+; Information added by NeFo
+version = "7.x-1.0"
+core = "7.x"
